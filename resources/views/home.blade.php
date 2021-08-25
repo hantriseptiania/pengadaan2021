@@ -1,0 +1,1 @@
+ini view laravel di root folder view
